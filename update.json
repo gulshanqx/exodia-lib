@@ -1,7 +1,7 @@
 {
-  "serverstatus": "false",
-  "noticemode": "false",
-  "dataclearmode": "false",
+  "serverstatus": "true",
+  "noticemode": "true",
+  "dataclearmode": "true",
   "servermeassage": "Wait We Are Working On a new Update",
   "opentime": "Just wait few more times 🙂",
   "libs": "https://urlnex.cfd/Online-lib-bgmi/libexe.zip",
