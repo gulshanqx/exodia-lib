@@ -1,10 +1,10 @@
 {
-  "serverstatus": "false",
-  "noticemode": "true",
+  "serverstatus": "true",
+  "noticemode": "false",
   "dataclearmode": "true",
   "servermeassage": "Wait We Are Working On a new Update",
   "opentime": "Just wait few more times 🙂",
   "libs": "https://urlnex.cfd/Online-lib-bgmi/libexe.zip",
   "notice_title": "Mod Status Is Safe ",
-  "notice_body": "rn"
+  "notice_body": "✅"
 }
