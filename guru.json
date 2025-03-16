@@ -1,7 +1,7 @@
 {
     "serverstatus": "true",
-    "noticemode": "on",
-    "dataclearmode": "on",
+    "noticemode": "true",
+    "dataclearmode": "true",
     "servermeassage": "Wait we are working on a new update",
     "opentime": "Just wait few more times \ud83d\ude42",
     "libs": "https:\/\/unikeygen.store\/api\/ultimate\/public\/libv2\/guru\/libguru.zip",
