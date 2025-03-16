@@ -1,10 +1,10 @@
 {
-    "serverstatus": "true",
-    "noticemode": "true",
-    "dataclearmode": "true",
-    "servermeassage": "Wait we are working on a new update",
-    "opentime": "Just wait few more times \ud83d\ude02",
+    "serverstatus": "false",
+    "noticemode": "false",
+    "dataclearmode": "false",
+    "servermeassage": "",
+    "opentime": "",
     "libs": "https:\/\/unikeygen.store\/api\/ultimate\/public\/libv2\/guru\/libguru.zip",
-    "notice_title": "Mod Status is Safe",
-    "notice_body": "\ud83d\ude01"
+    "notice_title": "",
+    "notice_body": ""
 }
