@@ -1,5 +1,5 @@
 {
-    "serverstatus": "on",
+    "serverstatus": "true",
     "noticemode": "on",
     "dataclearmode": "on",
     "servermeassage": "Wait we are working on a new update",
